@@ -94,6 +94,12 @@ span {
     height: 54px;
 }
 
+.btn:hover {
+    color: black;
+    opacity: 0.7;
+    background-color: white;
+}
+
 .contact-me {
     display: flex;
     flex-direction: row;
@@ -132,7 +138,7 @@ h4 {
 }
 
 .creativity {
-    width: 400px;
+    width: 300px;
     height: 302px;
     border: solid 1px #615978;
     border-radius: 10px;
@@ -256,7 +262,7 @@ button:hover {
 }
 
 .projects {
-    width: 400px;
+    width: 350px;
     height: 302px;
     border: solid 1px #615978;
     border-radius: 10px;
@@ -323,7 +329,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     text-align: center;
-    width: 600px;
+    width: 565px;
     height: 341px;
     background-color: #474747;
     border: solid 2px #B0AAC0;
@@ -438,7 +444,7 @@ form input {
 }
 
 form textarea {
-    width: 644px;
+    width: 500px;
     height: 202px;
     color: #6C757D;
     border: 2px solid #CED4DA;
